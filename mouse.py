@@ -4,11 +4,11 @@ import handetect as htm
 import time
 #import autopy
 
-######################
+#######################
 wCam, hCam = 640, 480
 frameR = 100     #Frame Reduction
 smoothening = 7  #random value
-######################
+#######################
 
 pTime = 0
 plocX, plocY = 0, 0
@@ -72,5 +72,5 @@ while True:
     cv2.putText(img, str(int(fps)), (28, 58), cv2.FONT_HERSHEY_PLAIN, 3, (255, 8, 8), 3)
 
     # Step12: Display
-    cv2.imshow("Image", img)
+    cv2.imshow("Image ==>", img)
     cv2.waitKey(1)
