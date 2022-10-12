@@ -13,3 +13,7 @@ the video capture object is created and the web camera will start capturing vide
 system.
 
 ![image](https://user-images.githubusercontent.com/66880196/189036960-be688dfe-25dd-42ca-9d44-1fc77db9dc39.png)
+
+
+This Ai camera can be of a great help to various with people and in the near future it will be widely used.
+
