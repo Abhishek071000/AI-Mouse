@@ -2,10 +2,10 @@ import cv2
 import numpy as np
 import handetect as htm
 import time
-#import autopy
+import autopy
 
 ######################
-wCam, hCam = 640, 480
+wCam, hCam = 740, 580
 frameR = 100     #Frame Reduction
 smoothening = 7  #random value
 ######################
