@@ -16,4 +16,5 @@ system.
 
 
 This Ai camera can be of a great help to various with people and in the near future it will be widely used.
+Further applying this is real time machine is going to be the task for it.
 
